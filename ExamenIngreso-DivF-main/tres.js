@@ -83,6 +83,7 @@ if(acumpasajeroosde> masde50porciento){
     alert(" el precio con descuento  es"+ preciocondescuento)
 }else{
     alert ("precio total sin descuento es"+Preciobruto)
+}
 
 
 }
